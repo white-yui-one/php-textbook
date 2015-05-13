@@ -5,8 +5,8 @@
     <title>aaaaa</title>
 </head>
 <body>
-<?php
-printf('おはよう');
-?>
+    <?php
+    printf('現在は'.date('G時 i分 s秒').'です')
+    ?>
 </body>
 </html>
